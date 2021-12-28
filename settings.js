@@ -1,6 +1,6 @@
 const settings = {
     "MongoDB": "",
-    "commandChannel": [],
+    "commandChannel": ["925459434988273676"],
     "taglıAlım": true,
     "onsekizatilacakoda": "",
     "onsekizodalar": [],
@@ -46,7 +46,7 @@ const settings = {
     "botSesID": "925458794933288981",
     "sunucuId": "920752432638746754",
     "sahip": ["618491146489823244"],
-    "bottoken" : "",
+    "bottoken" : "OTI1NDU5MjU1MTY1ODYxOTQ4.YctbGA.vzSRZfJ6pkbEinUn70kP0e4sK0U",
 
     "footer": "Owsla ❤️ MyServer",
     "readyFooter": [
