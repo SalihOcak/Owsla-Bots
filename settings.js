@@ -23,15 +23,15 @@ const settings = {
         "MesajID": ""
     },
     "leaderboard": {
-        "KanalID": "",
-        "mesajID": "",
-        "mesajID_2": "",
-        "mesajID_3": "",
-        "mesajID_4": "",
+        "KanalID": "925457102569353247",
+        "mesajID": "925457134467055696",
+        "mesajID_2": "925457136237043723",
+        "mesajID_3": "925457138262868038",
+        "mesajID_4": "925457139907039282",
     },
     "yetkilisay": {
-        "KanalID": "",
-        "MesajID": ""
+        "KanalID": "925456802886336522",
+        "MesajID": "925457402214633525"
     },
     "CEZA_PUAN_SYSTEM": true,
 
@@ -43,9 +43,10 @@ const settings = {
     "EVENTS": "", // OYUN botu
 
     "prefix": [".", "!", "i!"],
-    "botSesID": "",
-    "sunucuId": "",
-    "sahip": ["731432916491567145"],
+    "botSesID": "925458794933288981",
+    "sunucuId": "920752432638746754",
+    "sahip": ["618491146489823244"],
+    "bottoken" : "",
 
     "footer": "Owsla ❤️ MyServer",
     "readyFooter": [
